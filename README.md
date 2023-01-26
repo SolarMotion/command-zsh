@@ -5,6 +5,7 @@
 find . -type f | wc -l
 ```
 
+
 2. Restart Mac dock
 ```
 killall Dock
