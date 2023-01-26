@@ -6,7 +6,6 @@ find . -type f | wc -l
 ```
 
 <br />
-<br />
 
 2. Restart Mac dock
 ```
