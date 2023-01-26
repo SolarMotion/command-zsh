@@ -4,9 +4,9 @@
 ```
 find . -type f | wc -l
 ```
-<br />
-<br />
 
+<br />
+<br />
 
 2. Restart Mac dock
 ```
