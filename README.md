@@ -4,7 +4,7 @@
 ```
 find . -type f | wc -l
 ```
-
+&NewLine;
 
 2. Restart Mac dock
 ```
